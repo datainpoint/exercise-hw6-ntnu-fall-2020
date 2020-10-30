@@ -1,6 +1,6 @@
-# suggested-answer-basic-pandas
+# exercise-basic-pandas
 
-> Suggested answers for basic pandas.
+> Exercises for basic pandas.
 
 ## Topics
 
