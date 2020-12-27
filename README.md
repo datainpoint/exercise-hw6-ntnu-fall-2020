@@ -1,6 +1,6 @@
-# exercise-basic-pandas
+# exercise-hw6-ntnu-fall-2020
 
-> Exercises for basic pandas.
+> Exercises for HW6 NTNU, fall, 2020.
 
 ## Topics
 
